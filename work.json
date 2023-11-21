@@ -1,0 +1,52 @@
+[
+    {
+        "w_name": "work1",
+        "w_req": "mst developer",
+        "w_rate": "234",
+        "w_des": "Your duties will include the entire process of defining requirements, visualizing, and creating graphics including illustrations, logos, layouts, and photos. You’ll be the one to shape the visual aspects of websites, books, magazines, product packaging, exhibitions, and more.",
+        "c_name":"Ram Rastogi",
+        "c_number":"1111111111",
+        "e_mail":"ram123@gmail.com"
+        
+    },
+    {
+        "w_name": "work2",
+        "w_req": "mst developer",
+        "w_rate": "235",
+        "w_des": "Your graphics should capture the attention of those who see them and communicate the right message. For this, you need to have a creative flair and a strong ability to translate requirements into design. If you can communicate well and work methodically as part of a team, we’d like to meet you.",
+        "c_name":"Sham Sharma",
+        "c_number":"1234567891",
+        "e_mail":"shamsharma@gmail.com"
+        
+    },
+    {
+        "w_name": "work3",
+        "w_req": "mst developer",
+        "w_rate": "234",
+        "w_des": "As a Junior Graphic Designer, you will be responsible for assisting our Senior Designer in creating engaging and on-brand graphics for a variety of media.",
+        "c_name":"Hari Manohar",
+        "c_number":"2223334441",
+        "e_mail":"manoharji@gmail.com"
+        
+    },
+    {
+        "w_name": "work4",
+        "w_req": "mst developer",
+        "w_rate": "234",
+        "w_des": "The goal is to inspire and attract the target audience while maintaining brand consistency.",
+        "c_name":"Manoj mahar",
+        "c_number":"9950111216",
+        "e_mail":"manojmanoj@gmail.com"
+        
+    },
+    {
+        "w_name": "work5",
+        "w_req": "mst developer",
+        "w_rate": "1000",
+        "w_des": "The goal is to inspire and attract the target audience while maintaining brand consistency.",
+        "c_name":"pasha mahar",
+        "c_number":"995990099",
+        "e_mail":"hajomanoj@gmail.com"
+        
+    }
+    ]
